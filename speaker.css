@@ -1,0 +1,38 @@
+#secondss{
+    background:linear-gradient(to right, #a1d3b0, #f6f1d3);
+    padding: 10px 250px;
+    text-align: center;
+    font-size: 20;
+    opacity: 0.8;
+}
+#thirdss1{
+    display: inline-block;
+    padding: 10px 100px 50px 300px;
+    font-size: 18;
+    line-height: 1.4;
+    color: #648880;
+}
+#thirdss11,#thirdss12{
+    float: left;
+}
+#thirdss11{
+    width: 700px;
+    padding-right: 30px;
+}
+#thirdss12{
+    padding: 30px;
+    border: solid 2px #648880;
+    margin: 50px 10px;
+}
+#thirdss12 img{
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+#thirdss12 a{
+    text-decoration: none;
+    color: #648880;
+    text-align: center;
+    margin: 70px ;
+    line-height: 1.2;
+}
